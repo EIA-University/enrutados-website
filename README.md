@@ -60,7 +60,7 @@ para correr el proyecto:
 
 ## Recursos
 * business model | [https://repository.eia.edu.co/](https://repository.eia.edu.co/bitstream/11190/1811/1/PalacioMaria_2016_PropuestaRidesharingEstrategia.pdf)
-* recurso 2
+* costum google map | [https://codyhouse.co/gem/custom-google-map](https://codyhouse.co/gem/custom-google-map)
 
 ## Contribuyendo:
 Por favor lee el [CONTRIBUTING.md]() para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
