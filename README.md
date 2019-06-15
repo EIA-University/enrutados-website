@@ -59,7 +59,7 @@ para correr el proyecto:
 
 
 ## Recursos
-* recurso 1
+* business model | [https://repository.eia.edu.co/](https://repository.eia.edu.co/bitstream/11190/1811/1/PalacioMaria_2016_PropuestaRidesharingEstrategia.pdf)
 * recurso 2
 
 ## Contribuyendo:
