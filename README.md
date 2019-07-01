@@ -10,7 +10,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip. 
 
 ## TODO's list:
-* escoger un system design para la App.
+* escoger un design system para la App.
 
 ## Comenzando :rocket:
 ### Requerimientos
