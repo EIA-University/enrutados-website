@@ -9,6 +9,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip. 
 
+## TODO's list:
+* escoger un system design para la App.
+
 ## Comenzando :rocket:
 ### Requerimientos
 * requerimiento 1
